@@ -1,0 +1,1377 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2090, 28.6139]
+      },
+      "properties": {
+        "key": "marker1",
+        "name": "New Delhi",
+        "confirmed": 1000,
+        "deaths": 100,
+        "recovered": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker2",
+        "name": "Mumbai",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5946, 12.9716]
+      },
+      "properties": {
+        "key": "marker3",
+        "name": "Bangalore",
+        "confirmed": 1200,
+        "deaths": 120,
+        "recovered": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.006, 40.7128]
+      },
+      "properties": {
+        "key": "marker4",
+        "name": "New York City",
+        "confirmed": 2000,
+        "deaths": 200,
+        "recovered": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8566]
+      },
+      "properties": {
+        "key": "marker5",
+        "name": "Paris",
+        "confirmed": 1500,
+        "deaths": 150,
+        "recovered": 750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6917, 35.6895]
+      },
+      "properties": {
+        "key": "marker6",
+        "name": "Tokyo",
+        "confirmed": 3000,
+        "deaths": 300,
+        "recovered": 1500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1276, 51.5072]
+      },
+      "properties": {
+        "key": "marker7",
+        "name": "London",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4050, 52.5200]
+      },
+      "properties": {
+        "key": "marker8",
+        "name": "Berlin",
+        "confirmed": 900,
+        "deaths": 90,
+        "recovered": 450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8952, 52.3702]
+      },
+      "properties": {
+        "key": "marker9",
+        "name": "Amsterdam",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1282, 51.5074]
+      },
+      "properties": {
+        "key": "marker10",
+        "name": "Westminster",
+        "confirmed": 750,
+        "deaths": 75,
+        "recovered": 375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.1332, 19.4326]
+      },
+      "properties": {
+        "key": "marker11",
+        "name": "Mexico City",
+        "confirmed": 2200,
+        "deaths": 220,
+        "recovered": 1100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2357, 30.0444]
+      },
+      "properties": {
+        "key": "marker12",
+        "name": "Cairo",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7038, 40.4168]
+      },
+      "properties": {
+        "key": "marker13",
+        "name": "Madrid",
+        "confirmed": 1600,
+        "deaths": 160,
+        "recovered": 800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6174, 51.4569]
+      },
+      "properties": {
+        "key": "marker14",
+        "name": "Birmingham",
+        "confirmed": 1200,
+        "deaths": 120,
+        "recovered": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6176, 55.7558]
+      },
+      "properties": {
+        "key": "marker15",
+        "name": "Moscow",
+        "confirmed": 3500,
+        "deaths": 350,
+        "recovered": 1750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6298, 41.8781]
+      },
+      "properties": {
+        "key": "marker16",
+        "name": "Chicago",
+        "confirmed": 2300,
+        "deaths": 230,
+        "recovered": 1150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      },
+      "properties": {
+        "key": "marker17",
+        "name": "Singapore",
+        "confirmed": 1200,
+        "deaths": 120,
+        "recovered": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7920, 1.2921]
+      },
+      "properties": {
+        "key": "marker18",
+        "name": "Sentosa Island",
+        "confirmed": 750,
+        "deaths": 75,
+        "recovered": 375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.2093, -33.8688]
+      },
+      "properties": {
+        "key": "marker19",
+        "name": "Sydney",
+        "confirmed": 2200,
+        "deaths": 220,
+        "recovered": 1100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8558, 1.2945]
+      },
+      "properties": {
+        "key": "marker20",
+        "name": "Marina Bay",
+        "confirmed": 850,
+        "deaths": 85,
+        "recovered": 425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      },
+      "properties": {
+        "key": "marker21",
+        "name": "Beijing",
+        "confirmed": 1700,
+        "deaths": 170,
+        "recovered": 850
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8535, 1.2819]
+      },
+      "properties": {
+        "key": "marker22",
+        "name": "Gardens by the Bay",
+        "confirmed": 900,
+        "deaths": 90,
+        "recovered": 450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4737, 31.2304]
+      },
+      "properties": {
+        "key": "marker23",
+        "name": "Shanghai",
+        "confirmed": 2400,
+        "deaths": 240,
+        "recovered": 1200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.2108, -33.8679]
+      },
+      "properties": {
+        "key": "marker24",
+        "name": "Bondi Beach",
+        "confirmed": 750,
+        "deaths": 75,
+        "recovered": 375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0428, -12.0464]
+      },
+      "properties": {
+        "key": "marker25",
+        "name": "Lima",
+        "confirmed": 1600,
+        "deaths": 160,
+        "recovered": 800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0268, 38.8904]
+      },
+      "properties": {
+        "key": "marker26",
+        "name": "Washington, D.C.",
+        "confirmed": 2000,
+        "deaths": 200,
+        "recovered": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.0442, 35.7915]
+      },
+      "properties": {
+        "key": "marker27",
+        "name": "Chapel Hill",
+        "confirmed": 900,
+        "deaths": 90,
+        "recovered": 450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8605, 1.3495]
+      },
+      "properties": {
+        "key": "marker28",
+        "name": "Chinatown",
+        "confirmed": 750,
+        "deaths": 75,
+        "recovered": 375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      },
+      "properties": {
+        "key": "marker29",
+        "name": "Beijing",
+        "confirmed": 2200,
+        "deaths": 220,
+        "recovered": 1100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8459, 1.2894]
+      },
+      "properties": {
+        "key": "marker31",
+        "name": "Raffles Place",
+        "confirmed": 1000,
+        "deaths": 100,
+        "recovered": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8629, 1.3070]
+      },
+      "properties": {
+        "key": "marker32",
+        "name": "East Coast Park",
+        "confirmed": 750,
+        "deaths": 75,
+        "recovered": 375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1900, 45.4642]
+      },
+      "properties": {
+        "key": "marker33",
+        "name": "Milan",
+        "confirmed": 1700,
+        "deaths": 170,
+        "recovered": 850
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1281, 51.5077]
+      },
+      "properties": {
+        "key": "marker34",
+        "name": "South Bank",
+        "confirmed": 1200,
+        "deaths": 120,
+        "recovered": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4050, 52.5200]
+      },
+      "properties": {
+        "key": "marker35",
+        "name": "Berlin",
+        "confirmed": 900,
+        "deaths": 90,
+        "recovered": 450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8952, 52.3702]
+      },
+      "properties": {
+        "key": "marker36",
+        "name": "Amsterdam",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8566]
+      },
+      "properties": {
+        "key": "marker37",
+        "name": "Paris",
+        "confirmed": 1500,
+        "deaths": 150,
+        "recovered": 750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4737, 31.2304]
+      },
+      "properties": {
+        "key": "marker38",
+        "name": "Shanghai",
+        "confirmed": 2400,
+        "deaths": 240,
+        "recovered": 1200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6917, 35.6895]
+      },
+      "properties": {
+        "key": "marker39",
+        "name": "Tokyo",
+        "confirmed": 3000,
+        "deaths": 300,
+        "recovered": 1500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9352, 40.7306]
+      },
+      "properties": {
+        "key": "marker40",
+        "name": "Brooklyn",
+        "confirmed": 950,
+        "deaths": 95,
+        "recovered": 475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker41",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker42",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker43",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker44",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker45",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "key": "marker46",
+        "name": "San Francisco",
+        "confirmed": 1300,
+        "deaths": 130,
+        "recovered": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker47",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker48",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker49",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker50",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker51",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "key": "marker52",
+        "name": "San Francisco",
+        "confirmed": 1300,
+        "deaths": 130,
+        "recovered": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker53",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker54",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker55",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker56",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker57",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "key": "marker58",
+        "name": "San Francisco",
+        "confirmed": 1300,
+        "deaths": 130,
+        "recovered": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker59",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker60",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker61",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker62",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker63",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "key": "marker64",
+        "name": "San Francisco",
+        "confirmed": 1300,
+        "deaths": 130,
+        "recovered": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker65",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker66",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker67",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker68",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker69",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "key": "marker70",
+        "name": "San Francisco",
+        "confirmed": 1300,
+        "deaths": 130,
+        "recovered": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker71",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker72",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker73",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker74",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker75",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "key": "marker76",
+        "name": "San Francisco",
+        "confirmed": 1300,
+        "deaths": 130,
+        "recovered": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker77",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker78",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker79",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker80",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker81",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "key": "marker82",
+        "name": "San Francisco",
+        "confirmed": 1300,
+        "deaths": 130,
+        "recovered": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker83",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker84",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker85",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker86",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker87",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "key": "marker88",
+        "name": "San Francisco",
+        "confirmed": 1300,
+        "deaths": 130,
+        "recovered": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker89",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker90",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker91",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker92",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker93",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 250,
+        "recovered": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      },
+      "properties": {
+        "key": "marker94",
+        "name": "San Francisco",
+        "confirmed": 1300,
+        "deaths": 130,
+        "recovered": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.6139, 77.2090]
+      },
+      "properties": {
+        "key": "marker95",
+        "name": "Delhi",
+        "confirmed": 1800,
+        "deaths": 180,
+        "recovered": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4867, 17.3850]
+      },
+      "properties": {
+        "key": "marker96",
+        "name": "Hyderabad",
+        "confirmed": 700,
+        "deaths": 70,
+        "recovered": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8567, 18.5204]
+      },
+      "properties": {
+        "key": "marker97",
+        "name": "Pune",
+        "confirmed": 1100,
+        "deaths": 110,
+        "recovered": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      },
+      "properties": {
+        "key": "marker98",
+        "name": "Noida",
+        "confirmed": 800,
+        "deaths": 80000,
+        "recovered": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      },
+      "properties": {
+        "key": "marker99",
+        "name": "Mumbai",
+        "confirmed": 2500,
+        "deaths": 25000,
+        "recovered": 1250
+      }
+    }
+  ]
+}
